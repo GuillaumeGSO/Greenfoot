@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Piece
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Piece\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=color\ figure
+comment1.target=Piece(char,\ Figure)
+comment2.params=color
+comment2.target=Piece(char)
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Act\ -\ do\ whatever\ the\ Piece\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment5.params=
+comment5.target=KataminoWorld\ getMyWorld()
+comment6.params=
+comment6.target=Figure\ getFigure()
+comment7.params=figure
+comment7.target=java.util.List\ getListPieces(Figure)
+numComments=8

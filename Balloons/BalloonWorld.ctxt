@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BalloonWorld
+comment0.text=\ \r\n\r\n\ A\ world\ of\ balloons.\r\n\ \r\n\ Balloons\ will\ be\ created\ and\ flow\ from\ the\ bottom\ to\ the\ top\ of\ the\ screen.\r\n\ \r\n\ @author\ Poul\ Henriksen\r\n
+comment1.params=
+comment1.target=BalloonWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ MyWorld.\r\n\ \r\n
+comment2.params=
+comment2.target=greenfoot.GreenfootImage\ getMyRandomImage()
+comment3.params=
+comment3.target=void\ essai()
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ Creates\ balloons\ at\ the\ bottom\ of\ the\ world.\r\n
+comment5.params=
+comment5.target=void\ countPop()
+comment5.text=\r\n\ Count\ one\ popped\ balloon.\r\n
+comment6.params=
+comment6.target=void\ gameOver()
+comment6.text=\r\n\ Called\ when\ game\ is\ up.\ Stop\ running\ and\ display\ score.\r\n
+comment7.params=
+comment7.target=void\ populate()
+comment7.text=\r\n\ Populate\ the\ world\ with\ bombs\ and\ a\ crosshair.\r\n
+numComments=8

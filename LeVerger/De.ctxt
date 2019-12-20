@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=De
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ De\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ De\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=int\ lanceDe()
+comment2.text=\r\n\ retourne\ le\ nombre\ de\ fruit\ que\ l'on\ peut\ cueillir\ avec\ ce\ lanc\u00E9\r\n
+comment3.params=world
+comment3.target=void\ addedToWorld(greenfoot.World)
+comment4.params=
+comment4.target=void\ enabled()
+comment5.params=
+comment5.target=void\ disabled()
+numComments=6

@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Bomb
+comment0.text=\r\n\ \ A\ bomb\ can\ be\ used\ to\ explode\ balloons.\ It\ will\ make\ an\ explosion\ that\ pops\r\n\ \ all\ the\ balloons\ that\ it\ touches.\r\n\ \ <p>\r\n\ \ \r\n\ \ The\ bombs\ are\ used\ by\ dragging\ them\ from\ their\ initial\ location\ and\ onto\ a\ \r\n\ \ balloon.\ This\ will\ trigger\ the\ explosion.\ If\ the\ balloon\ is\ dragged\ to\ a\ \r\n\ \ location\ with\ out\ a\ balloon\ it\ will\ return\ the\ bomb\ to\ its\ original\ \r\n\ \ location.\r\n\ \ \r\n\ @author\ Poul\ Henriksen\r\n
+comment1.params=world
+comment1.target=void\ addedToWorld(greenfoot.World)
+comment1.text=\r\n\ Will\ store\ the\ initial\ location\ of\ the\ bomb.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Check\ the\ mouse\ and\ make\ the\ bomb\ draggable.\ \ \r\n\r\n
+comment3.params=
+comment3.target=void\ explode()
+comment3.text=\r\n\ Make\ an\ explosion.\r\n
+comment4.params=
+comment4.target=void\ reset()
+comment4.text=\r\n\ Reset\ the\ bomb\ to\ its\ original\ location.\r\n
+numComments=5

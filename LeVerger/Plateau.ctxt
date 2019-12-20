@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Plateau
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Plateau\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Plateau()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Plateau.\r\n\ \r\n
+comment2.params=fruit
+comment2.target=void\ pickUp(Fruit)
+comment3.params=
+comment3.target=int\ getFruitToPickUp()
+comment4.params=nb
+comment4.target=void\ setFruitToPickUp(int)
+comment5.params=
+comment5.target=boolean\ addCorbeau()
+comment6.params=
+comment6.target=void\ initCorbeau()
+comment7.params=
+comment7.target=void\ checkGain()
+comment8.params=
+comment8.target=boolean\ getLanceAnim()
+comment9.params=
+comment9.target=void\ prepare()
+comment9.text=\r\n\ Prepare\ the\ world\ for\ the\ start\ of\ the\ program.\ That\ is\:\ create\ the\ initial\r\n\ objects\ and\ add\ them\ to\ the\ world.\r\n
+numComments=10

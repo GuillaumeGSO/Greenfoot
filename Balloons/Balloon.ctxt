@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Balloon
+comment0.text=\r\n\ A\ balloon\ flows\ from\ bottom\ to\ top.\r\n\ \r\n\ @author\ Poul\ Henriksen\r\n
+comment1.params=
+comment1.target=Balloon()
+comment2.params=image
+comment2.target=Balloon(greenfoot.GreenfootImage)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ pop()
+comment4.text=\r\n\ Pop\ this\ balloon.\r\n
+numComments=5
